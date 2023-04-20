@@ -18,10 +18,10 @@
 
 ###  Connections
 
- Connect OLED GND to GND
- Connect OLED VCC to 3.3V
- Connect OLED SCL to GPIO22
- Connect OLED SDA to GPIO21
+ Connect OLED GND to GND  
+ Connect OLED VCC to 3.3V  
+ Connect OLED SCL to GPIO22  
+ Connect OLED SDA to GPIO21  
 
    **Nota importante**: si bien todos los OLED 0.96" tienen 4 conexiones, la ubicación de los respectivos contactos no están en el mismo orden en todas las fabricaciones
 
